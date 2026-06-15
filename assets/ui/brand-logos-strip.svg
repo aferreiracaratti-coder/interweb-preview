@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" viewBox="0 0 1400 220">
+  <rect width="1400" height="220" fill="#FFFFFF"/>
+  <text x="60" y="130" font-family="Inter, Arial" font-size="58" font-weight="800" fill="#111111">Apple</text>
+  <text x="290" y="130" font-family="Inter, Arial" font-size="58" font-weight="800" fill="#0047B8">SAMSUNG</text>
+  <text x="650" y="130" font-family="Inter, Arial" font-size="62" font-weight="800" fill="#FF5A1F">mi</text>
+  <text x="820" y="130" font-family="Inter, Arial" font-size="58" font-weight="800" fill="#1B75BB">MOTOROLA</text>
+  <text x="1180" y="130" font-family="Inter, Arial" font-size="48" font-weight="800" fill="#333333">Y MÁS...</text>
+</svg>

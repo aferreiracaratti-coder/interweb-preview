@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <rect width="900" height="420" rx="34" fill="#FFFFFF"/>
+  <text x="60" y="82" font-family="Inter, Arial" font-size="28" font-weight="800" fill="#0047B8">CONTACTO</text>
+  <text x="60" y="150" font-family="Inter, Arial" font-size="44" font-weight="800" fill="#07111F">Interweb Salto</text>
+  <text x="60" y="220" font-family="Inter, Arial" font-size="34" font-weight="700" fill="#20252B">099 735 543</text>
+  <text x="60" y="272" font-family="Inter, Arial" font-size="30" fill="#20252B">473 3 50 56</text>
+  <text x="60" y="324" font-family="Inter, Arial" font-size="30" fill="#20252B">Grito de Asencio 67, Salto</text>
+  <rect x="600" y="80" width="220" height="220" rx="54" fill="#0047B8"/>
+  <text x="655" y="210" font-family="Inter, Arial" font-size="86" font-weight="800" fill="#FFFFFF">IW</text>
+</svg>

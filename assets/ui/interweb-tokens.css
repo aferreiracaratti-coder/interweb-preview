@@ -1,0 +1,12 @@
+:root {
+  --iw-blue: #0047B8;
+  --iw-blue-2: #005BEA;
+  --iw-cyan: #00AEEF;
+  --iw-dark: #07111F;
+  --iw-text: #20252B;
+  --iw-red: #D71920;
+  --iw-light: #F5F8FC;
+  --iw-gray: #E5EDF6;
+  --iw-radius: 22px;
+  --iw-shadow: 0 18px 45px rgba(0, 42, 120, .14);
+}
