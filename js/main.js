@@ -71,3 +71,9 @@ const sectionObserver = new IntersectionObserver(
 sections.forEach((section) => {
   sectionObserver.observe(section);
 });
+
+document.querySelectorAll("[data-map-frame]").forEach((frame) => {
+  frame.addEventListener("load", () => {
+    frame.classList.add("is-loaded");
+  });
+});
